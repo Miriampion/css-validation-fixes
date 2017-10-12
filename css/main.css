@@ -1,0 +1,16 @@
+html {
+  background-color: #ccc;
+    }
+
+body {
+  font: sans-serif;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+article p {
+  font-style: italic;
+  color: #666;
+}
